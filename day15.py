@@ -1,3 +1,5 @@
+# credit - https://github.com/mgtezak/Advent_of_Code/blob/master/2024/15/p2.py
+
 from collections import defaultdict
 
 def parse_input(filename):
